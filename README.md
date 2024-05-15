@@ -11,4 +11,6 @@ The map:
 ![image](https://github.com/Tylersuard/TyTorch/assets/41713505/2e57a254-4879-46f3-899f-d13c919eb578)
 ![image](https://github.com/Tylersuard/TyTorch/assets/41713505/6f62cee3-7391-45ed-9a68-153fb97bbbc1)
 ![image](https://github.com/Tylersuard/TyTorch/assets/41713505/fa57f68a-f3c0-483a-b39b-708bcf374a8d)
+![image](https://github.com/Tylersuard/TyTorch/assets/41713505/cb3384e4-867d-4e68-b7a7-9baf49c14794)
+
 
